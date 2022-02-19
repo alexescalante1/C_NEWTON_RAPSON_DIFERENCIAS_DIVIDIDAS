@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1559536824 source:c:\users\gtx 1060oc\desktop\metodo newton raphson alex escalante\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1559536126 c:\users\gtx 1060oc\desktop\metodo newton raphson alex escalante\resource.h
+
+1559539178 source:c:\users\gtx 1060oc\desktop\metodo newton raphson alex escalante\main.cpp
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+

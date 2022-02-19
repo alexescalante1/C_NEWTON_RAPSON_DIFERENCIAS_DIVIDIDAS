@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1559393346 source:c:\users\gtx 1060oc\desktop\metodos diferencias divididas alex escalante\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1559393588 c:\users\gtx 1060oc\desktop\metodos diferencias divididas alex escalante\resource.h
+
+1559533168 source:c:\users\gtx 1060oc\desktop\metodos diferencias divididas alex escalante\main.cpp
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
